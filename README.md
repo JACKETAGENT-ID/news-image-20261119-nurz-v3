@@ -1,6 +1,8 @@
 # 19 November 2026 — The World in One Day
 
-[![news-image-20261119](https://img.shields.io/badge/make.fun-news--image--20261119-blue)](https://make.fun/c/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-nurz-v3/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-nurz-v3/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A six-panel briefing grid that sums up Thursday 19 November 2026 in one
 image: a generative globe hero banner, the date in large type, and six story
